@@ -1,2 +1,2 @@
-# Hangman
-EA Sports to the game.🕹🕹🕹
+# Hangman Game
+EA Sports to the game.🕹🕹
